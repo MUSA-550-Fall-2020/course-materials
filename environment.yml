@@ -1,5 +1,4 @@
 name: musa-550-fall-2020
-
 channels:
   - conda-forge
   - defaults
