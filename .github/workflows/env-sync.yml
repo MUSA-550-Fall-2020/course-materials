@@ -6,7 +6,7 @@ on:
       - 'environment.yml'
 
 jobs:
-  env-sync:
+  env-install:
     name: Env Sync (${{ matrix.os }})
     runs-on: ${{ matrix.os }}
     strategy:
@@ -29,4 +29,27 @@ jobs:
       - shell: bash -l {0}
         run: |
           python -c "import geopandas; print(geopandas.__version__)"
-   
+      
+  upload:
+    needs: env-install
+    runs-on: 'macos-latest' 
+    steps:
+      - uses: actions/checkout@v2
+      - uses: goanpeca/setup-miniconda@v1
+        with:
+          auto-update-conda: true
+          python-version: 3.7
+      - name: Setup Anaconda Client
+        shell: bash -l {0}
+        run: |
+          conda install --yes anaconda-client
+      - name: Upload to Anaconda
+        shell: bash -l {0}
+        env:
+          ANACONDA_TOKEN: ${{ secrets.ANACONDA_TOKEN }}
+        run: |
+          cp ./environment.yml ./musa-550-fall-2020.yml
+          anaconda -t "$ANACONDA_TOKEN" upload ./musa-550-fall-2020.yml
+
+    
+       
