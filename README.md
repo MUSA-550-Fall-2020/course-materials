@@ -17,9 +17,9 @@ Materials on the course website include:
 - [Python resources](https://musa-550-fall-2020.github.io/resources/python)
 - [Instructions for setting up your local software environment](https://musa-550-fall-2020.github.io/resources/setup/)
 - Guides
-  - [Jupyter user guide](https://musa-550-fall-2020.github.io/guides/juypter)
   - [Conda user guide](https://musa-550-fall-2020.github.io/guides/conda)
   - [Common conda issues](https://musa-550-fall-2020.github.io/guides/conda-issues)
+  - [Jupyter user guide](https://musa-550-fall-2020.github.io/guides/jupyter)
 - Cheatsheets
   - [Python](https://musa-550-fall-2020.github.io/cheatsheets/python.pdf)
   - [Conda](https://musa-550-fall-2020.github.io/cheatsheets/conda.pdf)
