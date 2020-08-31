@@ -68,6 +68,9 @@ jobs:
         shell: bash -l {0}
         run: |
           conda env create pennmusa/musa-550-fall-2020
+      - name: Activate MUSA Env
+        shell: bash -l {0}
+        run: |
           conda activate musa-550-fall-2020
       - name: Test Import
         shell: bash -l {0}
