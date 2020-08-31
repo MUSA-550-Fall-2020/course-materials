@@ -34,8 +34,10 @@ Office hours will be remote using Google Meet / Hangouts.
 - Piazza: [https://piazza.com/upenn/fall2020/musa550/home](https://piazza.com/upenn/fall2020/musa550/home)
 - Canvas: [https://canvas.upenn.edu/courses/1533812](https://canvas.upenn.edu/courses/1533812)
 
-We will use Piazza for questions related to lecture materials and assignments, while Canvas will be used for
-hosting recorded lectures and calendar invites for Zoom lectures.
+We will use Piazza for questions related to lecture materials and assignments,
+while Canvas will be used for hosting recorded lectures and calendar invites for
+Zoom lectures. The course's Github page will have repositories for each week's
+lectures as well as assignments.
 
 ## Format
 
