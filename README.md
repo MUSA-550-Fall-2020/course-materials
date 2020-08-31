@@ -2,7 +2,7 @@
 
 This repository contains general course materials, including:
 
-- [Course Syllabus](syllabus.md)
+- [Course syllabus](syllabus.md)
 - An [environment.yml](environment.yml) file specifying the Python packages needed in this course
 
 The majority of course materials for MUSA 550 can be found on the course's website:

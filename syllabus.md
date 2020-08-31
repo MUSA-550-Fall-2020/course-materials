@@ -80,5 +80,3 @@ geospatial topics. All software is open-source and freely available. The course
 will require a working installation of Python on your local computer. See the
 [Software Setup Guide](https://musa-550-fall-2020.github.io/setup) for
 instructions on how to setup your computer for use in this course.
-
-## Polices
