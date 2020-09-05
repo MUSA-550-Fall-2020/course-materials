@@ -17,15 +17,17 @@ lectures, office hours, assignments, and grading can be found below.
 
 ## Office Hours
 
-Office hours will be remote using Google Meet / Hangouts.
+Office hours will use Zoom and will be by appointment — you should be able to
+sign up for 1 (or more) 15-minute time slot via the Canvas calendar. Zoom
+information for each session is available in the meeting details.
 
 **Nick:**
 
-- Time to be determined
+7:30am-9am and 6:00pm-7:30pm on Tuesdays
 
 **Eugene:**
 
-- Time to be determined
+10:30am - 12:30pm on Thursdays
 
 ## Course Websites
 
