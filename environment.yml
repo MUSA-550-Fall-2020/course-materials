@@ -18,6 +18,7 @@ dependencies:
   - altair=4.1.*
   - seaborn=0.10.*
   - vega_datasets=0.8.0
+  - vega=3.4.0
   - geopandas=0.8.*
   - descartes=1.1.0
   - cartopy=0.18.0
