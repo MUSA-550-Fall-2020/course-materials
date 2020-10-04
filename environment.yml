@@ -41,7 +41,6 @@ dependencies:
   - selenium=3.141.0
   - beautifulsoup4=4.9.*
   - geckodriver=0.27.*
-  - python-chromedriver-binary=84.*
   - imageio=2.9.0
   - intake=0.6.*
   - intake-parquet=0.2.3
@@ -70,3 +69,4 @@ dependencies:
       - carto2gpd==1.0.*
       - esri2gpd==1.0.*
       - osm2gpd==1.0.*
+      - webdriver_manager
