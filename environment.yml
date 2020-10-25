@@ -13,7 +13,7 @@ dependencies:
   - openpyxl=3.0.5
   - matplotlib=3.3.0
   - notebook=6.1.4
-  - ipython=7.17.0
+  - ipython=7.10.2
   - jupyterlab=2.2.8
   - pip=20.2.2
   - altair=4.1.0
