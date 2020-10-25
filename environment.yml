@@ -53,7 +53,7 @@ dependencies:
   - tqdm=4.48.2
   - pandana=0.5.1
   - osmnet=0.1.6
-  - osmnx=0.15.1
+  - osmnx=0.16.1
   - networkx=2.4
   - scikit-learn=0.23.2
   - flask=1.1.2
