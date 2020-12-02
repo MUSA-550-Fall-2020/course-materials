@@ -64,10 +64,11 @@ dependencies:
   - rio-toa=0.3.0
   - rioxarray=0.0.31
   - missingno=0.4.2
-  - jupyter-panel-proxy=0.1.0
   - pip:
       - us==2.0.2
       - carto2gpd==1.0.7
       - esri2gpd==1.0.7
       - osm2gpd==1.0.1
       - webdriver_manager==3.2.2
+      - jupyter-panel-proxy==0.1.0
+      - jupyter-server-proxy==1.5.0
